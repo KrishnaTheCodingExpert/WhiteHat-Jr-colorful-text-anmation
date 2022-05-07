@@ -1,0 +1,23 @@
+body
+{
+    
+background: url('https://images.pexels.com/videos/3045163/free-video-3045163.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    color: #fff;
+}
+
+.hmd
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 130px;
+    font-weight: 800;
+    font-family: algerian;
+    text-align: center;
+    background-image: url('https://i.kym-cdn.com/photos/images/original/000/720/524/07b.gif');
+    color:transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  
+}
